@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "about": "About Us",
+    "management": "Management",
+    "fields": "Fields",
+    "departments": "Departments",
+    "news": "News",
+    "students": {
+      "current": "For students",
+      "online": "Online library",
+      "hemis": "Hemis"
+    },
+    "button": "Submit an application"
+  },
+  "aboutinstitut": {
+    "title": "About Our Institute",
+    "text1": "Jizzakh Polytechnic Institute is a higher educational institution founded in 1989, which trains specialists in chemical technology, automotive industry, construction and farming. The institute has faculties of automation, engineering economics, industrial technology and construction, as well as correspondence faculties. The full-time department prepares bachelors in 13 specialties, masters in 4 specialties; the correspondence department prepares bachelors in 16 specialties. In the 2000/2001 academic year, more than 1,900 students studied. The institute has 18 departments, 4 scientific laboratories and a library with a collection of more than 67,000 books. By 2002, more than 6,500 specialists had been trained.",
+    "text2": "Our goal is to equip students not only with theoretical knowledge but also with practical skills, preparing them fully for the job market."
+  },
+  "cards": [
+    "International Partnerships",
+    "Scientific Publications",
+    "Innovative Projects",
+    "Grants for Students"
+  ],
+  "directions": {
+    "title": "Programs",
+    "cards": [
+      {
+        "title": "Economics",
+        "text": "Provides comprehensive knowledge and skills in the field of economics."
+      },
+      {
+        "title": "Software Engineering",
+        "text": "Offers in-depth knowledge of software development and application."
+      },
+      {
+        "title": "Information Security",
+        "text": "Prepares specialists in information protection and data security."
+      }
+    ]
+  },
+  "lastNews": {
+    "title": "Latest News",
+    "button": "Read More"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "inp": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "button": "Send"
+    }
+  },
+  "footer": " All rights reserved",
+  "aboutPage": {
+    "title": "About Us",
+    "text1": "Jizzakh Polytechnic Institute is a higher educational institution founded in 1989, which trains specialists in chemical technology, automotive industry, construction and farming. The institute has faculties of automation, engineering economics, industrial technology and construction, as well as correspondence faculties. The full-time department prepares bachelors in 13 specialties, masters in 4 specialties; the correspondence department prepares bachelors in 16 specialties. In the 2000/2001 academic year, more than 1,900 students studied. The institute has 18 departments, 4 scientific laboratories and a library with a collection of more than 67,000 books. By 2002, more than 6,500 specialists had been trained.",
+    "text2": "Our mission is to fully prepare students for the job market by providing not only theoretical knowledge but also practical skills.",
+    "top": "Ranked in the TOP 1000 universities in the world"
+  },
+  "directionsPage": {
+    "title": "Programs",
+    "text": "Taught based on modern education and innovative technologies",
+    "types": [
+      "Full-time",
+      "Part-time"
+    ],
+    "cards": [
+      "Software Engineering",
+      "Economics",
+      "History",
+      "Psychology",
+      "Pedagogy"
+    ],
+    "year": "years",
+    "time": "Duration of study"
+  },
+  "departments": {
+    "title": "Centers and Departments",
+    "cardTitle": "Center Head",
+    "aboutTitle": "About Center Activities",
+    "mainTitle": "Main Objectives and Tasks of the Center",
+    "workTime": "Reception Hours",
+    "lunchTime": "Lunch",
+    "cards": [
+      {
+        "title": "Digital Education Technologies Center",
+        "aboutText": "About Center Activities",
+        "mainText": "Informatization of the educational process, development of information marketing services in education",
+        "mainText2": "Implementation of new digital technologies and research results in the educational process"
+      },
+      {
+        "title": "Innovative Education Center",
+        "aboutText": "The Innovative Education Center is engaged in the development and implementation of modern pedagogical technologies.",
+        "mainText": "Development and implementation of innovative teaching methods",
+        "mainText2": "Organization of teacher training programs"
+      },
+      {
+        "title": "Research Center",
+        "aboutText": "The Research Center coordinates and develops the scientific activities of the institute.",
+        "mainText": "Development and implementation of research projects",
+        "mainText2": "Development of international scientific cooperation"
+      }
+    ]
+  },
+  "news": {
+    "title": "News",
+    "button": "Read More",
+    "cards": [
+      {
+        "title": "International Conference",
+        "text": "International conference on educational innovations in New York, USA..."
+      },
+      {
+        "title": "New Curriculum",
+        "text": "Updated program for 2024-2025 academic year announced..."
+      },
+      {
+        "title": "Student Project Wins",
+        "text": "Our students won an international competition..."
+      },
+      {
+        "title": "New Partnership",
+        "text": "Cooperation agreement signed between the institute and an IT company..."
+      }
+    ]
+  }
+}

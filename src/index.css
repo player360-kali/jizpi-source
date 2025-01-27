@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  list-style: none;
+  outline: none;
+}
+
+button {
+  transition: 0.5s;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  width: 16px !important;
+  height: 16px !important;
+  background-color: rgba(255, 255, 255, 0.8);
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  background-color: #fff;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  width: 16px !important;
+  height: 16px !important;
+  position: relative !important;
+  font-size: 10px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  font-weight: 700;
+  color: #000;
+}
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+  }
+}

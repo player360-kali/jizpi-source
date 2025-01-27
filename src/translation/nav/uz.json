@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "about": "Biz haqimizda",
+    "management": "Raxbariyat",
+    "fields": "Yo'nalishlar",
+    "departments": "Bo'limlar",
+    "news": "Yangiliklar",
+    "students": {
+      "current": "Talabalar uchun",
+      "online": "Online kutubxonalar",
+      "hemis": "Hemis"
+    },
+    "button": "Ariza topshirish"
+  }
+}

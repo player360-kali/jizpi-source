@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "about": "Biz haqimizda",
+    "management": "Raxbariyat",
+    "fields": "Yo'nalishlar",
+    "departments": "Bo'limlar",
+    "news": "Yangiliklar",
+    "students": {
+      "current": "Talabalar uchun",
+      "online": "Online kutubxonalar",
+      "hemis": "Hemis"
+    }
+  },
+  "button": "Ariza topshirish",
+  "aboutinstitut": {
+    "title": "Institutimiz haqida",
+    "text1": "Jizzax politexnika instituti — 1989-yilda tashkil etilgan oliy oʻquv yurti boʻlib, kimyo texnologiyasi, avtomobil xoʻjaligi, qurilish va fermer xoʻjaliklari yoʻnalishida mutaxassislar tayyorlaydi. Institut tarkibida avtomatika, muhandislik iqtisodiyoti, sanoat texnologiyasi va qurilish fakultetlari hamda sirtqi fakultetlar mavjud. Kunduzgi boʻlimda 13 yoʻnalish boʻyicha bakalavrlar, 4 mutaxassislik boʻyicha magistrlar; sirtqi boʻlimda 16 yoʻnalish boʻyicha bakalavrlar tayyorlanadi. 2000/2001 oʻquv yilida 1900 dan ortiq talaba tahsil olgan. Institutda 18 kafedra, 4 ilmiy laboratoriya va 67 mingdan ziyod kitob fondiga ega kutubxona mavjud. 2002-yilgacha 6500 dan ortiq mutaxassis tayyorlangan.",
+    "text2": "Bizning maqsadimiz - talabalarga nafaqat nazariy bilimlar, balki amaliy koʻnikmalar ham berib, ularni mehnat bozoriga toʻliq tayyor qilib yetkazishdir."
+  },
+  "cards": [
+    "Fakultet",
+    "Yo'nalishlar",
+    "Professor O'qtuvchilar",
+    "Talabalar"
+  ],
+  "directions": {
+    "title": "Yoʻnalishlar",
+    "cards": [
+      {
+        "title": "Iqtisodiyot",
+        "text": "Iqtisodiyot sohasida keng qamrovli bilim va ko'nikmalarni o'rgatamiz."
+      },
+      {
+        "title": "Dasturiy injiniring",
+        "text": "Dasturiy ta'minot yaratish va uning qo'llanilishi bo'yicha chuqur bilimlar beradi."
+      },
+      {
+        "title": "Axborot xavfsizligi",
+        "text": "Axborot xavfsizligi, ma'lumotlarni himoya qilish bo'yicha mutaxassislar tayyorlaydi."
+      }
+    ]
+  },
+  "lastNews": {
+    "title": "Soʻnggi yangiliklar",
+    "button": "Batafsil oʻqish"
+  },
+  "contact": {
+    "title": "Bogʻlanish",
+    "inp": {
+      "name": "Ismingiz",
+      "email": "Elektron pochtangiz",
+      "message": "Xabaringiz",
+      "button": "Yuborish"
+    }
+  },
+  "footer": " Barcha huquqlar himoyalangan",
+  "aboutPage": {
+    "title": "Biz haqimizda",
+    "text1": "Jizzax politexnika instituti — 1989-yilda tashkil etilgan oliy oʻquv yurti boʻlib, kimyo texnologiyasi, avtomobil xoʻjaligi, qurilish va fermer xoʻjaliklari yoʻnalishida mutaxassislar tayyorlaydi. Institut tarkibida avtomatika, muhandislik iqtisodiyoti, sanoat texnologiyasi va qurilish fakultetlari hamda sirtqi fakultetlar mavjud. Kunduzgi boʻlimda 13 yoʻnalish boʻyicha bakalavrlar, 4 mutaxassislik boʻyicha magistrlar; sirtqi boʻlimda 16 yoʻnalish boʻyicha bakalavrlar tayyorlanadi. 2000/2001 oʻquv yilida 1900 dan ortiq talaba tahsil olgan. Institutda 18 kafedra, 4 ilmiy laboratoriya va 67 mingdan ziyod kitob fondiga ega kutubxona mavjud. 2002-yilgacha 6500 dan ortiq mutaxassis tayyorlangan.",
+    "text2": "Bizning maqsadimiz - talabalarga nafaqat nazariy bilimlar, balki amaliy ko'nikmalar ham berib, ularni mehnat bozoriga to'liq tayyor qilib yetkazishdir.",
+    "top": "Jahonning TOP 1000 ta universiteti qatorida"
+  },
+  "directionsPage": {
+    "title": "Yo'nalishlar",
+    "text": "Zamonaviy ta'lim va innovatsion texnologiyalar asosida o'qitiladi",
+    "types": [
+      "Kunduzgi",
+      "Sirtqi"
+    ],
+    "cards": [
+      "Dasturiy injiniring",
+      "Iqtisodiyot",
+      "Tarix",
+      "Psixologiya",
+      "Pedagogika"
+    ],
+    "year": "yil",
+    "time": "O'qish muddati"
+  },
+  "departments": {
+    "title": "Markaz va Bo'limlar",
+    "cardTitle": "Markaz Boshligi",
+    "aboutTitle": "Markaz faoliyati haqida ma'lumot",
+    "mainTitle": "Markazning asosiy maqsad va vazifalari",
+    "workTime": "Qabul vaqti",
+    "lunchTime": "Tushlik",
+    "cards": [
+      {
+        "title": "Raqamli ta'lim texnologiyalar markazi",
+        "aboutText": "Markaz o'zining faoliyatini va rivojlanishini yaratilayotgan dasturiy hamda multimediya mahsulotlari va boshqa mahsulotlar, ko'rsatilayotgan xizmat va ish turlari bo'yicha rivojlanish istiqbollarni rejalashtiradi.",
+        "mainText": "O'quv jarayonini axborotlashtirish, ta'lim sohasida axborot marketing xizmatini rivojlantirish",
+        "mainText2": "Yangi raqamli texnologiyalarni va ilmiy-tadqiqot natijalarini o'quv jarayoniga tadbiq qilish"
+      },
+      {
+        "title": "Innovatsion ta'lim markazi",
+        "aboutText": "Innovatsion ta'lim markazi zamonaviy pedagogik texnologiyalarni ishlab chiqish va joriy etish bilan shug'ullanadi.",
+        "mainText": "Innovatsion ta'lim metodlarini ishlab chiqish va joriy etish",
+        "mainText2": "O'qituvchilar malakasini oshirish dasturlarini tashkil etish"
+      },
+      {
+        "title": "Ilmiy-tadqiqot markazi",
+        "aboutText": "Ilmiy-tadqiqot markazi institutning ilmiy faoliyatini muvofiqlashtiradi va rivojlantiradi.",
+        "mainText": "Ilmiy-tadqiqot loyihalarini ishlab chiqish va amalga oshirish",
+        "mainText2": "Xalqaro ilmiy hamkorlikni rivojlantirish"
+      }
+    ]
+  },
+  "news": {
+    "title": "Yangiliklar",
+    "button": "Batafsil",
+    "cards": [
+      {
+        "title": "Xalqaro konferensiya",
+        "text": "AQShning Nyu-York shaxrida xalqaro ta'lim innovatsiyalari konferensiyasi..."
+      },
+      {
+        "title": "Yangi o'quv dasturi",
+        "text": "2024-2025 o'quv yili uchun yangilangan dastur e'lon qilindi..."
+      },
+      {
+        "title": "Talabalar loyihasi g'olib",
+        "text": "Bizning talabalarimiz xalqaro tanlovda g'oliblikni qo'lga kiritishdi..."
+      },
+      {
+        "title": "Yangi hamkorlik",
+        "text": "Institut va IT kompaniya o'rtasida hamkorlik shartnomasi imzolandi..."
+      }
+    ]
+  }
+}

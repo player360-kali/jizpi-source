@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "about": "About Us",
+    "management": "Management",
+    "fields": "Fields",
+    "departments": "Departments",
+    "news": "News",
+    "students": {
+      "current": "For students",
+      "online": "Online library",
+      "hemis": "Hemis"
+    },
+    "button": "Submit an application"
+  }
+}
