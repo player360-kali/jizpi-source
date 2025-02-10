@@ -1,0 +1,41 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "date": "2024-03-15",
+      "title": "Xalqaro konferensiya",
+      "text": "AQShning Nyu-York shaxrida xalqaro ta'lim innovatsiyalari konferensiyasi...",
+      "imgs": [
+        "/src/assets/news1.png",
+        "/src/assets/news2.png"
+      ]
+    },
+    {
+      "id": "2",
+      "date": "2024-03-10",
+      "title": "Yangi o'quv dasturi",
+      "text": "2024-2025 o'quv yili uchun yangilangan dastur e'lon qilindi...",
+      "imgs": [
+        "/src/assets/news3.png"
+      ]
+    },
+    {
+      "id": "3",
+      "date": "2024-03-05",
+      "title": "Talabalar loyihasi g'olib",
+      "text": "Bizning talabalarimiz xalqaro tanlovda g'oliblikni qo'lga kiritishdi...",
+      "imgs": [
+        "/src/assets/news4.png"
+      ]
+    },
+    {
+      "id": "4",
+      "date": "2024-02-28",
+      "title": "Yangi hamkorlik",
+      "text": "Institut va IT kompaniya o'rtasida hamkorlik shartnomasi imzolandi...",
+      "imgs": [
+        "src/assets/news5.png"
+      ]
+    }
+  ]
+}
