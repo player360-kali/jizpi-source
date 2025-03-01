@@ -105,6 +105,8 @@ const News = () => {
       headers: { "Content-Type": "application/json" },
     });
 
+    console.log(data);
+
     setData([...data, newPost]);
     alert("Post muvaffaqiyatli yaratildi!");
     setTitle("");
